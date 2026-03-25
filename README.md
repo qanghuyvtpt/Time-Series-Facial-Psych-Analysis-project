@@ -22,15 +22,16 @@ Monitoring psychological states in sports is challenging due to:
 ---
 
 ## 🧩 System Pipeline
-
-<p align="center">
+<img width="1525" height="404" alt="pipeline" src="https://github.com/user-attachments/assets/5e4cfb64-c2e4-4d4d-b7f2-e9224dd2fc6c" />
+<!-- <p align="center">
   <img src="demo/pipeline.png" width="600"/>
-</p>
+</p> -->
 
 The system consists of the following stages:
 
 1. **Face Detection**  
-   - Detect faces in each frame using RetinaFace  
+   - Detect faces in each frame using RetinaFace 
+
 
 2. **Face Image Quality Assessment (FIQA)**  
    - Assign a quality score to each detected face  
@@ -66,7 +67,7 @@ The system is trained using:
 
 ## 🎥 Demo
 
-👉 [Watch on YouTube](link)
+👉 [Watch on YouTube]([link](https://youtu.be/hov_bqoBBvM))
 
 ---
 
