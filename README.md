@@ -67,8 +67,7 @@ The system is trained using:
 
 ## 🎥 Demo
 
-👉 [Watch on YouTube]([link](https://youtu.be/hov_bqoBBvM))
-
+👉 [Watch on YouTube](https://youtu.be/hov_bqoBBvM)
 ---
 
 ## ⚙️ Requirements
