@@ -65,12 +65,12 @@ The system is trained using:
 
 ---
 
-## 🎥 Demo
+##  Demo
 
  [Watch on YouTube](https://youtu.be/hov_bqoBBvM)
 ---
 
-## ⚙️ Requirements
+##  Requirements
 
 ```bash
 tensorflow
