@@ -1,19 +1,19 @@
-# 🧠 Player Psychological State Analysis from Facial Expressions
+#  Player Psychological State Analysis from Facial Expressions
 
-## 📌 Introduction
+##  Introduction
 This project proposes a novel system for inferring players’ psychological states from facial expression sequences in real-world sports videos using a time-series deep learning framework integrated with face image quality assessment (FIQA).
 
 ---
 
-## 📌 Overview
+##  Overview
 
 Monitoring psychological states in sports is challenging due to:
 
-- Motion blur, occlusion, and unstable camera conditions  
+- Motion blur, occlusion, and unstable camera conditions
 - Rapid emotional changes during gameplay  
 - Lack of continuous temporal modeling in traditional methods  
 
-👉 This project addresses these issues by:
+ This project addresses these issues by:
 
 - Modeling psychological state as a **continuous latent process**  
 - Integrating face image quality as a **reliability signal**  
@@ -21,7 +21,7 @@ Monitoring psychological states in sports is challenging due to:
 
 ---
 
-## 🧩 System Pipeline
+##  System Pipeline
 <img width="1525" height="404" alt="pipeline" src="https://github.com/user-attachments/assets/5e4cfb64-c2e4-4d4d-b7f2-e9224dd2fc6c" />
 <!-- <p align="center">
   <img src="demo/pipeline.png" width="600"/>
@@ -52,7 +52,7 @@ The system consists of the following stages:
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The system is trained using:
 
@@ -67,7 +67,7 @@ The system is trained using:
 
 ## 🎥 Demo
 
-👉 [Watch on YouTube](https://youtu.be/hov_bqoBBvM)
+ [Watch on YouTube](https://youtu.be/hov_bqoBBvM)
 ---
 
 ## ⚙️ Requirements
